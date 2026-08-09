@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://velcora.ai">🌐 Website</a> •
-  <a href="mailto:hello@velcora.ai">✉️ Email</a> •
+  <a href="https://velcora-ai-website.vercel.app">🌐 Website</a> •
+  <a href="mailto:velcora.ai@gmail.com">✉️ Email</a> •
   <a href="https://linkedin.com/company/velcora-ai">💼 LinkedIn</a> •
   <a href="https://twitter.com/velcoraai">🐦 Twitter</a>
 </p>
@@ -122,16 +122,16 @@ Velcora AI is a software engineering firm. We don't sell templates — we archit
 ### Let's Build Something
 
 <p>
-  <a href="https://calendly.com/velcora-ai">
+  <a href="https://velcora-ai-website.vercel.app/#contact">
     <img src="https://img.shields.io/badge/📞_Book_a_Call-06B6D4?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a Call"/>
   </a>
-  <a href="https://velcora.ai">
+  <a href="https://velcora-ai-website.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Website-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/company/velcora-ai">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hello@velcora.ai">
+  <a href="mailto:velcora.ai@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
